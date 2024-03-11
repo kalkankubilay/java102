@@ -1,2 +1,2 @@
-# java102
-Patika102PR
+# Java 102 Projeleri OOP
+Patika Java 102
